@@ -1,0 +1,26 @@
+.home-container {
+  background-color: #183b56;
+  height: 99vh;
+  color: #fff;
+  padding-top: 2vh;
+}
+.home-header {
+  display: flex;
+  width: 99vw;
+  align-items: center;
+  justify-content: space-around;
+}
+.home-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+}
+.logout-btn {
+  width: 100px;
+  padding: 10px;
+  background-color: transparent;
+  color: #fff;
+  border: 2px solid #fff;
+}
